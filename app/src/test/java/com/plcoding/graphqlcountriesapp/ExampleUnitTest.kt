@@ -1,4 +1,4 @@
-package com.plcoding.graphqlcountriesapp
+package com.bob.graphqlcountriesapp
 
 import org.junit.Test
 
